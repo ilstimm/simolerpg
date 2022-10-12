@@ -7,7 +7,11 @@ public class BMICalculator {
         double weight;
         double height;
         double bmi;
+<<<<<<< HEAD
 		int weight;
+=======
+		int height;
+>>>>>>> good
         String s;
         System.out.println("Welcome to the BMI (Body Mass Index) calculator");
         System.out.println("Please enter your weight (kilograms): ");
